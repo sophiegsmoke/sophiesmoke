@@ -1,10 +1,23 @@
 CSS
- head {
-   color: yellow;
-  }
-.light-pink-background{
-  color: pink;
+ /*universal selector*/
+*{
+  text-align: center;
+  text-decoration-color: pink
 }
-h1 {
+/*type selector*/
+html {
+  background-color: lightpink
+}
+/*class selector*/
+.light-pink-background{
+  font-style: oblique;
+  font-size: 25px
+  font-family:cursive;
+  color: yellow;
+}
+/*id selector*/
+#call-me{
+  font-family: monospace;
+  font-size: 25px
   color: blue;
 }
