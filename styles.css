@@ -1,7 +1,7 @@
 <!DOCTYPE html>
  /*universal selector*/
 *{
-  text-align: center;
+  text-indent: center;
   text-decoration-color: pink
 }
 /*type selector*/
