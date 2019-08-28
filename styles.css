@@ -10,9 +10,8 @@ html {
 }
 /*class selector*/
 .light-pink-background{
-  font-style: oblique;
-  font-size: 25px
-  font-family:cursive;
+  font-style: normal;
+  font-family: cursive;
   color: yellow;
 }
 /*id selector*/
