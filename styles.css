@@ -18,6 +18,6 @@ html {
 #call-me{
   font-family: monospace;
   font-size: 25px
-  color: blue;
+  color: blue !important;
   decoration: leaves;
 }
