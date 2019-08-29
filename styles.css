@@ -1,21 +1,23 @@
 <!DOCTYPE html>
- /*universal selector*/
+ /*universal changes*/
 *{
   text-align: center;
   text-decoration-color: pink
 }
-/*type selector*/
+/*tags*/
 html {
   background-color: lightpink
 }
-/*class selector*/
+/*classes*/
 .light-pink-background{
   font-style: normal;
   color: yellow;
+  background-color: lightpink
 }
-/*id selector*/
+/*id's*/
 #call-me{
   font-family: monospace;
   font-size: 25px
   color: blue;
+  decoration: leaves;
 }
